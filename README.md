@@ -1,4 +1,4 @@
-# Procgen Pyramid <img align="right" src="./procgen-pyramid.png" alt="image" width="auto" height="200">
+# Procgen Pyramid <img align="right" src="./procgen-pyramid.png" alt="image" width="auto" height="150">
 
 A collection of pre-compiled python wheels for the [Procgen benchmark](https://github.com/openai/procgen). The wheels can be downloaded from the [Release page](https://github.com/kaixin96/procgen-pyramid/releases).
 
