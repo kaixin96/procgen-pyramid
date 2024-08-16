@@ -6,10 +6,10 @@ A collection of pre-compiled python wheels for the [Procgen benchmark](https://g
 
 Currently supported Python versions: Python 3.7, 3.8, 3.9, 3.10
 
-Currently supported resolutions: `128x128`, `224x224`
+Currently supported resolutions: `112x112`, `128x128`, `224x224`
 
 ## Windows
 
 Currently supported Python versions: Python 3.7, 3.8, 3.9, 3.10
 
-Currently supported resolutions: `128x128`, `224x224`
+Currently supported resolutions: `112x112`, `128x128`, `224x224`
